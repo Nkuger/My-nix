@@ -1,0 +1,10 @@
+# Hardware specific files
+/hardware-configuration.nix
+
+# Build results
+result
+result-*
+
+# Secret files (if any)
+*.age
+.secrets/
